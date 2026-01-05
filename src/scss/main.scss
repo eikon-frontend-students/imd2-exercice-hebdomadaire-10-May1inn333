@@ -17,6 +17,10 @@ audio {
   display: none;
 }
 
+body {
+  background: var(--lavender, #c4d2f5);
+}
+
 .player {
   display: flex;
   width: 440px;
