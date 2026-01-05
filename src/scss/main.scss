@@ -16,3 +16,21 @@ video {
 audio {
   display: none;
 }
+
+.player-track-title {
+  color: var(--black, #000);
+  font-family: Inter, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.player-track-artist {
+  color: var(--gray, #909090);
+  font-family: Inter, sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
